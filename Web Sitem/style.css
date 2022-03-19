@@ -1,0 +1,78 @@
+body{
+	margin:0 ;
+	background-color: #000000;
+
+}
+
+h1{
+	text-align: center;
+	
+}
+
+h1,h2,p,a{
+	font-family: "Audiowide", sans-serif;
+}
+nav{
+	text-align: right;
+	background-color: #000000;
+
+}
+
+.menu{
+	padding: 20px;
+}
+.menu a{
+	color: gray;
+	text-decoration: none;	
+	
+}
+
+.menu .linkler{
+
+	margin-right: 30px;
+	margin-left: 30px;
+	transition-property: color;
+	transition-duration: 0.9s;
+
+}
+.menu #marka{
+	font-style: italic;
+	float: left;
+}
+
+.menu .linkler:hover{
+	color: white;
+
+}
+
+/*HAKKIMDA SAYFASI*/
+
+.container{
+	
+	margin-top: 20px;
+	width: 80%;
+	margin: auto;
+	color: white;
+
+
+}
+
+.ikon{
+	margin: 0px 10px 5px 5px;
+	width: 200px;
+	float: left;
+	border-radius: 5px;
+
+
+
+
+}
+
+.loremis{
+	color: white;
+
+}
+
+
+
+
